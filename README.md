@@ -2,6 +2,7 @@
 #Bitcoin Investment Value in USD (Calculator)
 
 #1 Ask user for current BTC investment and current BTC price in USD
+
 investment_in_bitcoin = float(input("How much BTC do you own? "))
 bitcoin_to_usd = float(input("How much is BTC currently worth in USD? "))
 
