@@ -29,7 +29,8 @@ _
 
 _**I would like to consider myself a new age Crypto Connoisseur so this THM project gave me the idea to make a BTC Investment calculator that gives you the value of your investment in USD in real time.**_
 
-   ** Feel Free to test this out and use it for your real world BTC investment portfolio. I will update the code as I see neccessary (to make it more efficient for other Tokens).**
+   ** Feel Free to test my rendition out and use it for your real world BTC investment portfolio. I will update the code as I see neccessary (to make it more efficient for other Tokens).**
 
 FUN FACT: Many do not know this, but Cryptocurrency/Blockchain Technology is how I first encountered my passion for Cybersecurity. This was due to the events of the 2021 Colonial Pipeline ransomware attack.
 
+https://www.techtarget.com/whatis/feature/Colonial-Pipeline-hack-explained-Everything-you-need-to-know
