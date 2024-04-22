@@ -6,7 +6,7 @@ This project's inspiration originated from the TryHackMe Room **"Python Basics"*
     
     URL Link to THM Room: https://tryhackme.com/r/room/pythonbasics
 
-**The Goal of the BTC Mini Project was:**
+**The Goal of TryHackMe's version of the BTC Mini Project was:**
 _"You've invested in Bitcoin and want to write a program that tells you when the value of Bitcoin falls below a particular value in dollars.
 Write a function called bitcoinToUSD with two parameters: bitcoin_amount, the amount of Bitcoin you own, and bitcoin_value_usd, the value of bitcoin in USD. The function should return usd_value, which is your bitcoin value in USD (to calculate this, in the function, you times bitcoin_amount variable by bitcoin_value_usd variable and return the value)."_
 
