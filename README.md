@@ -2,7 +2,8 @@
 #Bitcoin Investment Value in USD (Calculator)
 
 This project's inspiration originated from the TryHackMe Room **"Python Basics"**, where the module illustrated how to use a web-based code editor to learn some foundational Python principles. 
-    One of the hands on labs featured coding a short Bitcoin Project. 
+    One of the hands on labs featured coding a short Bitcoin Project.
+    
     URL Link to THM Room: https://tryhackme.com/r/room/pythonbasics
 
 **The Goal of the BTC Mini Project was:**
