@@ -23,6 +23,10 @@ Additionally, We had to see that when the value of one Bitcoin varied if the cod
 _(Ex: If One Bitcoin is now worth $24,000, once you manually hardcode the "bitcoin_to_usd" variable value to 24000, will your Python program recognise that your investment is below the $30,000 threshold.)
 _
 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 _**I would like to consider myself a new age Crypto Connoisseur so this THM project gave me the idea to make a BTC Investment calculator that gives you the value of your investment in USD in real time.**_
 
    ** Feel Free to test this out and use it for your real world BTC investment portfolio. I will update the code as I see neccessary (to make it more efficient for other Tokens).**
