@@ -21,3 +21,6 @@ print("Your current Bitcoin Investment is worth ", ValuedTotal)
 import datetime
 current_time = datetime.datetime.now()
 print(current_time)
+
+#Author: DionTheCyberDefender 
+#DateOfCreation 4/21/2024
